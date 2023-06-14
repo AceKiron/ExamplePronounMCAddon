@@ -1,0 +1,6 @@
+name: ExamplePronounMCAddon
+version: '${project.version}'
+main: dev.mxace.examplepronounmcaddon.ExamplePronounMCAddon
+api-version: 1.13
+depend:
+  - PronounMC
