@@ -17,11 +17,11 @@ public final class ExamplePronounMCAddon extends JavaPlugin {
         PronounAPI.instance.unregisterPronounsSet(OneOnesPronounsSet.instance);
 
         try {
-            PronounAPI.instance.loadPronounsSetsInPackage("dev.mxace.examplepronounmcaddon.pronounssets");
+            PronounAPI.instance.loadPronounsSetsInPackage(getClassLoader(), "dev.mxace.examplepronounmcaddon.pronounsset");
         } catch (ClassNotFoundException e) {
-            throw new RuntimeException(e);
+            e.printStackTrace();
         } catch (IOException e) {
-            throw new RuntimeException(e);
+            e.printStackTrace();
         }
     }
 

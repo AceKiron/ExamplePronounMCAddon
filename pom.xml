@@ -77,7 +77,7 @@
         <dependency>
             <groupId>com.github.AceKiron</groupId>
             <artifactId>PronounMC</artifactId>
-            <version>v2.1</version>
+            <version>v2.1.1</version>
         </dependency>
     </dependencies>
 </project>
