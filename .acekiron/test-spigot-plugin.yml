@@ -4,4 +4,4 @@ required-messages:
   - "\\[ExamplePronounMCAddon\\] Enabling ExamplePronounMCAddon v1\\.1"
 
 dependency-plugins:
-  - "https://www.spigotmc.org/resources/pronounmc.99737/download?version=508728"
+  - "https://github.com/AceKiron/PronounMC/releases/download/v2.3/PronounMC-2.3.jar"
