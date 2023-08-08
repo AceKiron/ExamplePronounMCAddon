@@ -2,3 +2,6 @@ required-messages:
   - "\\[PronounMC\\] Enabling PronounMC v2\\.3"
   - "Loaded 1 pronouns set\\(s\\)\\."
   - "\\[ExamplePronounMCAddon\\] Enabling ExamplePronounMCAddon v1\\.1"
+
+dependency-plugins:
+  - "https://www.spigotmc.org/resources/pronounmc.99737/download?version=508728"
