@@ -2,6 +2,3 @@ required-messages:
   - "\\[PronounMC\\] Enabling PronounMC v2\\.3"
   - "Loaded 1 pronouns set\\(s\\)\\."
   - "\\[ExamplePronounMCAddon\\] Enabling ExamplePronounMCAddon v1\\.1"
-
-dependency-plugins:
-  - "https://github.com/AceKiron/PronounMC/releases/download/v2.3/PronounMC-2.3.jar"
