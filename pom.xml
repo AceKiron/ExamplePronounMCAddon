@@ -6,7 +6,7 @@
 
     <groupId>dev.mxace</groupId>
     <artifactId>ExamplePronounMCAddon</artifactId>
-    <version>1.0</version>
+    <version>1.1</version>
     <packaging>jar</packaging>
 
     <name>ExamplePronounMCAddon</name>
@@ -61,7 +61,7 @@
         <dependency>
             <groupId>com.github.AceKiron</groupId>
             <artifactId>PronounMC</artifactId>
-            <version>v2.2</version>
+            <version>v2.3</version>
         </dependency>
     </dependencies>
 </project>
